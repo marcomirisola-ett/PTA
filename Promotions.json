@@ -1,0 +1,17 @@
+[
+   {
+      "id":"1",
+      "shopId":"0",
+      "dateRange":{
+         "from":"2021-11-01",
+         "to":"2023-12-01"
+      },
+      "image":"https://picsum.photos/id/237/200/300",
+      "title":"Promozione 1",
+      "description":"Descrizione promozione 1",
+      "interestIds":[
+         "0",
+         "3"
+      ]
+   }
+]
