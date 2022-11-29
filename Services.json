@@ -1,16 +1,80 @@
 [
   {
     "id": "1",
-    "title": "Animali",
-    "description": "Animali permessi",
+    "title": "Animals",
+    "description": "Lorem ipsum dolor sit amet.",
     "order": 1,
     "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/animals_icon_on.png",
     "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/animals_icon_off.png"
   },
   {
     "id": "0",
-    "title": "Batterie",
-    "description": "Ricarica le batterie",
+    "title": "Poi",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "order": 0,
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
+  },
+  {
+    "id": "0",
+    "title": "Bancomat",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "order": 0,
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
+  },
+  {
+    "id": "0",
+    "title": "Battery",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "order": 0,
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
+  },
+  {
+    "id": "0",
+    "title": "Wifi",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "order": 0,
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
+  },
+  {
+    "id": "0",
+    "title": "Church",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "order": 0,
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
+  },
+  {
+    "id": "0",
+    "title": "Wallet",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "order": 0,
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
+  },
+  {
+    "id": "0",
+    "title": "Gallery",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "order": 0,
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
+  },
+  {
+    "id": "0",
+    "title": "Parking",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "order": 0,
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
+  },
+  {
+    "id": "0",
+    "title": "Share Now",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "order": 0,
     "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
     "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
