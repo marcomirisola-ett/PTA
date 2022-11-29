@@ -12,7 +12,7 @@
     "title": "Batterie",
     "description": "Ricarica le batterie",
     "order": 0,
-    "iconOn": "https://github.com/marcomirisola-ett/PTA/blob/main/battery_icon_on.png",
-    "iconOff": "https://github.com/marcomirisola-ett/PTA/blob/main/battery_icon_off.png"
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/battery_icon_off.png"
   }
 ]
