@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "Clothing and footwear",
+        "type": "store"
+    },
+    {
+        "id": "2",
+        "title": "Home and leisure",
+        "type": "store"
+    },
+    {
+        "id": "3",
+        "title": "Personal care",
+        "type": "store"
+    },
+    {
+        "id": "4",
+        "title": "Hypermarket",
+        "type": "store"
+    },
+    {
+        "id": "5",
+        "title": "For the little one",
+        "type": "store"
+    },
+    {
+        "id": "6",
+        "title": "Precious and gifts",
+        "type": "store"
+    },
+    {
+        "id": "7",
+        "title": "Services",
+        "type": "store"
+    },
+    {
+        "id": "8",
+        "title": "Fast Food",
+        "type": "store"
+    },
+    {
+        "id": "9",
+        "title": "Japanese",
+        "type": "store"
+    },
+    {
+        "id": "10",
+        "title": "Pizza",
+        "type": "store"
+    }
+    ]
