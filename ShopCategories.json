@@ -37,16 +37,16 @@
     {
         "id": "8",
         "title": "Fast Food",
-        "type": "store"
+        "type": "foodAndBeverage"
     },
     {
         "id": "9",
         "title": "Japanese",
-        "type": "store"
+        "type": "foodAndBeverage"
     },
     {
         "id": "10",
         "title": "Pizza",
-        "type": "store"
+        "type": "foodAndBeverage"
     }
     ]
