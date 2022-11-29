@@ -1,0 +1,90 @@
+[
+  {
+    "id" : "1",
+    "name" : "Convenience",
+    "group" : "shops"
+  },
+  {
+    "id" : "2",
+    "name" : "Homestyle",
+    "group" : "shops"
+  },
+  {
+    "id" : "3",
+    "name" : "Electronics",
+    "group" : "shops"
+  },
+  {
+    "id" : "4",
+    "name" : "Health",
+    "group" : "shops"
+  },
+  {
+    "id" : "5",
+    "name" : "Gifts & Lifestyle",
+    "group" : "shops"
+  },
+  {
+    "id" : "6",
+    "name" : "Apparel",
+    "group" : "shops"
+  },{
+    "id" : "7",
+    "name" : "Convenience",
+    "group" : "hobbies"
+  },
+  {
+    "id" : "8",
+    "name" : "Sports",
+    "group" : "hobbies"
+  },
+  {
+    "id" : "9",
+    "name" : "Technology",
+    "group" : "hobbies"
+  },
+  {
+    "id" : "10",
+    "name" : "Videogames",
+    "group" : "hobbies"
+  },
+  {
+    "id" : "11",
+    "name" : "Wellbeing",
+    "group" : "hobbies"
+  },
+  {
+    "id" : "12",
+    "name" : "Travel",
+    "group" : "hobbies"
+  },{
+    "id" : "13",
+    "name" : "Food",
+    "group" : "hobbies"
+  },
+  {
+    "id" : "14",
+    "name" : "Shows",
+    "group" : "events"
+  },
+  {
+    "id" : "15",
+    "name" : "Guest stars",
+    "group" : "events"
+  },
+  {
+    "id" : "16",
+    "name" : "Cultural",
+    "group" : "events"
+  },
+  {
+    "id" : "17",
+    "name" : "Music",
+    "group" : "events"
+  },
+  {
+    "id" : "18",
+    "name" : "Kids and fun",
+    "group" : "events"
+  }
+]
