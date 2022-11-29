@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "title": "McDonald's",
+        "description": "Goditi una pausa a un prezzo speciale con DoubleBurger BBQ o Double Chicken BBQ. Ci sono pause che fanno la differenza, come la pausa pranzo di McDonald's. Ingredienti di Qualità. Sicurezza Alimentare. 100% Made in Italy. Sostenibilità.",
+        "categoryId": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+        "photo": "https://forbes.it/wp-content/uploads/2020/03/mcdonalds-fast-food-shutterstock-800x534.jpg",
+        "openingHours": {
+            "monday" : {
+                "from": "10:00",
+                "to": "22:00"
+            }
+        },
+        "interestIds": ["0"]
+    }
+    ]
