@@ -1,0 +1,29 @@
+{
+  "general" : {
+    "global": {
+      "from": "10:00",
+      "to": "22:00"
+    },
+    "food": {
+       "from": "10:00",
+      "to": "22:00",
+      "fromWeekDay": "Monday",
+    "toWeekDay": "Sunday"
+    },
+    "hypermarket": {
+      "from": "10:00",
+      "to": "22:00",
+      "fromWeekDay": "Monday",
+      "toWeekDay": "Sunday"
+    },
+    "ourStores": {
+      "from": "10:00",
+      "to": "22:00",
+      "fromWeekDay": "Monday",
+      "toWeekDay": "Sunday"
+    }
+  },
+  "exceptions": [
+    
+  ]
+}
