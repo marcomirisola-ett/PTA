@@ -1,0 +1,17 @@
+[
+{
+"id": "1",
+"categoryId": "1",
+"title": "Camicie"
+},
+{
+"id": "2",
+"categoryId": "2",
+"title": "Accessori"
+},
+{
+"id": "3",
+"categoryId": "3",
+"title": "Fast Food"
+}
+]
