@@ -6,6 +6,16 @@
 },
 {
 "id": "2",
+"categoryId": "1",
+"title": "Scarpe"
+},
+{
+"id": "3",
+"categoryId": "1",
+"title": "Abbigliamento sportivo"
+},
+{
+"id": "2",
 "categoryId": "2",
 "title": "Accessori"
 },
