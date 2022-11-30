@@ -1,17 +1,48 @@
 [
    {
       "id":"1",
-      "shopId":"0",
+      "shopId":"1",
       "dateRange":{
          "from":"2021-11-01",
          "to":"2023-12-01"
       },
       "image":"https://picsum.photos/id/237/200/300",
-      "title":"Promozione 1",
-      "description":"Descrizione promozione 1",
+      "title":"Dental Pro e Amplifon",
+      "description":"Descirzione promozione 1",
       "interestIds":[
-         "0",
-         "3"
+         "4",
+         "7"
+      ]
+   },
+   {
+      "id":"2",
+      "shopId":"0",
+      "dateRange":{
+         "from":"2021-11-01",
+         "to":"2023-12-01"
+      },
+      "image":"https://picsum.photos/id/267/200/300",
+      "title":"Succede solo da Mc Donalds",
+      "description":"Descirzione promozione 2",
+      "interestIds":[
+         "1",
+         "13",
+         "18"
+      ]
+   },
+   {
+      "id":"3",
+      "shopId":"2",
+      "dateRange":{
+         "from":"2021-11-01",
+         "to":"2023-12-01"
+      },
+      "image":"https://picsum.photos/id/236/200/300",
+      "title":"il 20%",
+      "description":"su tutti i modelli Adidas! Descirzione promozione 3",
+      "interestIds":[
+         "5",
+         "8"
       ]
    }
 ]
