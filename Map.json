@@ -1,0 +1,154 @@
+{
+  "floorIds" : [
+    "0",
+    "1",
+    "2"
+    ],
+  "completeGraph": [ 
+    { 
+      "floorId" : "0",
+      "nodeName" : "nodo1",
+      "relations": 
+        [ 
+        {
+          "targetFloorId":"0",
+          "targetNavPointNodeName":"target name1",
+          "weight":0.5
+        },
+         {
+          "targetFloorId":"2",
+          "targetNavPointNodeName":"target name2",
+          "weight":0.8
+        },
+         {
+          "targetFloorId":"3",
+          "targetNavPointNodeName":"target name3",
+          "weight":0.2
+        }
+        ],
+      "attachedShopNodeName":"attachedNode1"
+    },
+    { 
+      "floorId" : "1",
+      "nodeName" : "nodo2",
+      "relations": 
+        [ 
+        {
+          "targetFloorId":"0",
+          "targetNavPointNodeName":"target name1",
+          "weight":0.5
+        },
+         {
+          "targetFloorId":"2",
+          "targetNavPointNodeName":"target name2",
+          "weight":0.8
+        },
+         {
+          "targetFloorId":"3",
+          "targetNavPointNodeName":"target name3",
+          "weight":0.2
+        }
+        ],
+      "attachedShopNodeName":"attachedNode1"
+    },
+    { 
+      "floorId" : "3",
+      "nodeName" : "nodo3",
+      "relations": 
+        [ 
+        {
+          "targetFloorId":"0",
+          "targetNavPointNodeName":"target name1",
+          "weight":0.5
+        },
+         {
+          "targetFloorId":"2",
+          "targetNavPointNodeName":"target name2",
+          "weight":0.8
+        },
+         {
+          "targetFloorId":"3",
+          "targetNavPointNodeName":"target name3",
+          "weight":0.2
+        }
+        ],
+      "attachedShopNodeName":"attachedNode1"
+    }
+    ],
+  "accessibilityGraph": [
+      { 
+      "floorId" : "0",
+      "nodeName" : "nodo1",
+      "relations": [ 
+        {
+          "targetFloorId":"0",
+          "targetNavPointNodeName":"target name1",
+          "weight":0.5
+        },
+         {
+          "targetFloorId":"2",
+          "targetNavPointNodeName":"target name2",
+          "weight":0.8
+        },
+         {
+          "targetFloorId":"3",
+          "targetNavPointNodeName":"target name3",
+          "weight":0.2
+        }
+        ],
+      "attachedShopNodeName":"attachedNode1"
+    },
+    { 
+      "floorId" : "1",
+      "nodeName" : "nodo2",
+      "relations": 
+        [ 
+        {
+          "targetFloorId":"0",
+          "targetNavPointNodeName":"target name1",
+          "weight":0.5
+        },
+         {
+          "targetFloorId":"2",
+          "targetNavPointNodeName":"target name2",
+          "weight":0.8
+        },
+         {
+          "targetFloorId":"3",
+          "targetNavPointNodeName":"target name3",
+          "weight":0.2
+        }
+        ],
+      "attachedShopNodeName":"attachedNode1"
+    },
+    { 
+      "floorId" : "3",
+      "nodeName" : "nodo3",
+      "relations": 
+        [ 
+        {
+          "targetFloorId":"0",
+          "targetNavPointNodeName":"target name1",
+          "weight":0.5
+        },
+         {
+          "targetFloorId":"2",
+          "targetNavPointNodeName":"target name2",
+          "weight":0.8
+        },
+         {
+          "targetFloorId":"3",
+          "targetNavPointNodeName":"target name3",
+          "weight":0.2
+        }
+        ],
+      "attachedShopNodeName":"attachedNode1"
+    }
+    ],
+  "shopIds": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ]
+}
