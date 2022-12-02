@@ -1,0 +1,17 @@
+[
+  {
+    "id":"0",
+    "modelUrl":"firstfloor.html",
+    "name":"1"
+  },
+  {
+    "id":"1",
+    "modelUrl":"secondfloor.html",
+    "name":"2"
+  },
+  {
+    "id":"3",
+    "modelUrl":"thirdfloor.html",
+    "name":"3"
+  }
+]
