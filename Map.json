@@ -2,17 +2,17 @@
   "floors" : [
   {
     "id":"0",
-    "modelUrl":"firstfloor.html",
+    "modelUrl":"index",
     "name":"1"
   },
   {
     "id":"1",
-    "modelUrl":"secondfloor.html",
+    "modelUrl":"index",
     "name":"2"
   },
   {
     "id":"3",
-    "modelUrl":"thirdfloor.html",
+    "modelUrl":"index",
     "name":"3"
   }
 ],
