@@ -1,0 +1,27 @@
+[
+  {
+    "floorId" : "0",
+    "nodeName" : "Dental Pro",
+    "shopId" : "1",
+    "attachedNavPoint" : "Dental Pro NavPoint"
+  },
+  {
+    "floorId" : "0",
+    "nodeName" : "McDonald's",
+    "shopId" : "0",
+    "attachedNavPoint" : "McDonald's NavPoint"
+  },
+  {
+    "floorId" : "1",
+    "nodeName" : "Adidas",
+    "shopId" : "2",
+    "attachedNavPoint" : "Adidas NavPoint"
+  },
+  {
+    "floorId" : "2",
+    "nodeName" : "7 Camicie",
+    "shopId" : "3",
+    "attachedNavPoint" : "7 Camicie NavPoint"
+  }
+  
+]
