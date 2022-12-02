@@ -1,9 +1,21 @@
 {
-  "floorIds" : [
-    "0",
-    "1",
-    "2"
-    ],
+  "floors" : [
+  {
+    "id":"0",
+    "modelUrl":"firstfloor.html",
+    "name":"1"
+  },
+  {
+    "id":"1",
+    "modelUrl":"secondfloor.html",
+    "name":"2"
+  },
+  {
+    "id":"3",
+    "modelUrl":"thirdfloor.html",
+    "name":"3"
+  }
+],
   "completeGraph": [ 
     { 
       "floorId" : "0",
@@ -145,10 +157,31 @@
       "attachedShopNodeName":"attachedNode1"
     }
     ],
-  "shopIds": [
-    "0",
-    "1",
-    "2",
-    "3"
-  ]
+  "shops": [
+  {
+    "floorId" : "0",
+    "nodeName" : "Dental Pro",
+    "shopId" : "1",
+    "attachedNavPoint" : "Dental Pro NavPoint"
+  },
+  {
+    "floorId" : "0",
+    "nodeName" : "McDonald's",
+    "shopId" : "0",
+    "attachedNavPoint" : "McDonald's NavPoint"
+  },
+  {
+    "floorId" : "1",
+    "nodeName" : "Adidas",
+    "shopId" : "2",
+    "attachedNavPoint" : "Adidas NavPoint"
+  },
+  {
+    "floorId" : "2",
+    "nodeName" : "7 Camicie",
+    "shopId" : "3",
+    "attachedNavPoint" : "7 Camicie NavPoint"
+  }
+  
+]
 }
