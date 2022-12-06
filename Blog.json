@@ -20,6 +20,26 @@
     "highlight": false
   },
   {
+    "id": "4",
+    "title": "Euroma2 non è Euroma1",
+    "date": "2018-01-01",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas velit ac arcu maximus rhoncus non id arcu. Aliquam vitae hendrerit sem, vel pharetra lectus. Nunc molestie sem nec lectus mollis, eget tempus magna lacinia. Fusce et egestas eros. Donec eget suscipit sem. Maecenas lacus diam, pharetra non aliquet eu, malesuada non lectus. Morbi varius lorem eu ullamcorper gravida. Ut venenatis orci dolor, a consequat felis porttitor sit amet. Integer consectetur varius dapibus. Fusce sagittis interdum placerat. Cras at interdum metus, eu faucibus turpis. Vestibulum quis quam arcu. Suspendisse eleifend tincidunt risus ut interdum.\nPellentesque at maximus dui. Ut gravida nulla non lorem molestie, ac condimentum ex dictum. Fusce sed efficitur orci, at viverra justo. Mauris eleifend consequat massa, eu tempus massa. Nullam nec porta enim. Nam vitae nisi malesuada, malesuada nibh eget, ornare orci. Fusce arcu lorem, dapibus ut neque id, consequat dignissim enim. Ut pretium ac est vitae convallis. Morbi consectetur turpis a augue blandit congue. Vivamus lobortis faucibus nunc non dictum. Vivamus et bibendum felis. Suspendisse nec tortor finibus, pellentesque arcu sed, laoreet lectus. Duis sed aliquet ex. \n Vivamus dignissim metus in dictum ultricies. Fusce sit amet elit ante. Nulla facilisi. Duis congue viverra neque et feugiat. Curabitur euismod porttitor magna non efficitur. Cras ex massa, sollicitudin eu diam in, fermentum imperdiet nibh. Mauris ipsum mauris, facilisis id pharetra nec, gravida ac nunc. Nullam vel fringilla leo. Suspendisse ultrices congue est, nec malesuada risus auctor vel. Etiam in elit eget dui euismod euismod. Sed pellentesque ex nibh, dignissim varius lectus tempor non. Maecenas finibus feugiat felis, in vulputate erat commodo id. Nunc iaculis hendrerit ex, non feugiat nulla ornare sed. Donec fermentum, justo et gravida accumsan, magna mi aliquet arcu, ut aliquet lectus velit interdum nisl.",
+    "shortDescription": "Anche se molti si confondono, la distinzione è importante!",
+    "image": "https://www.codingem.com/wp-content/uploads/2022/11/not-equal-operator-in-python-1024x653.png?ezimgfmt=rs:364x232/rscb1/ngcb1/notWebP",
+    "thumb": "https://www.codingem.com/wp-content/uploads/2022/11/not-equal-operator-in-python-1024x653.png?ezimgfmt=rs:364x232/rscb1/ngcb1/notWebP",
+    "highlight": false
+  },
+  {
+    "id": "5",
+    "title": "Euro...Ma in contanti?",
+    "date": "2022-10-04",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas velit ac arcu maximus rhoncus non id arcu. Aliquam vitae hendrerit sem, vel pharetra lectus. Nunc molestie sem nec lectus mollis, eget tempus magna lacinia. Fusce et egestas eros. Donec eget suscipit sem. Maecenas lacus diam, pharetra non aliquet eu, malesuada non lectus. Morbi varius lorem eu ullamcorper gravida. Ut venenatis orci dolor, a consequat felis porttitor sit amet. Integer consectetur varius dapibus. Fusce sagittis interdum placerat. Cras at interdum metus, eu faucibus turpis. Vestibulum quis quam arcu. Suspendisse eleifend tincidunt risus ut interdum. \n Pellentesque at maximus dui. Ut gravida nulla non lorem molestie, ac condimentum ex dictum. Fusce sed efficitur orci, at viverra justo. Mauris eleifend consequat massa, eu tempus massa. Nullam nec porta enim. Nam vitae nisi malesuada, malesuada nibh eget, ornare orci. Fusce arcu lorem, dapibus ut neque id, consequat dignissim enim. Ut pretium ac est vitae convallis. Morbi consectetur turpis a augue blandit congue. Vivamus lobortis faucibus nunc non dictum. Vivamus et bibendum felis. Suspendisse nec tortor finibus, pellentesque arcu sed, laoreet lectus. Duis sed aliquet ex.\n Vivamus dignissim metus in dictum ultricies. Fusce sit amet elit ante. Nulla facilisi. Duis congue viverra neque et feugiat. Curabitur euismod porttitor magna non efficitur. Cras ex massa, sollicitudin eu diam in, fermentum imperdiet nibh. Mauris ipsum mauris, facilisis id pharetra nec, gravida ac nunc. Nullam vel fringilla leo. Suspendisse ultrices congue est, nec malesuada risus auctor vel. Etiam in elit eget dui euismod euismod. Sed pellentesque ex nibh, dignissim varius lectus tempor non. Maecenas finibus feugiat felis, in vulputate erat commodo id. Nunc iaculis hendrerit ex, non feugiat nulla ornare sed. Donec fermentum, justo et gravida accumsan, magna mi aliquet arcu, ut aliquet lectus velit interdum nisl.",
+    "shortDescription": "Sì, ma anche con il POS!",
+    "image": "https://static.euronews.com/articles/stories/06/33/32/28/1440x810_cmsv2_6e3fca64-dea6-5e58-8467-f8dd633fc730-6333228.jpg",
+    "thumb": "https://static.euronews.com/articles/stories/06/33/32/28/1440x810_cmsv2_6e3fca64-dea6-5e58-8467-f8dd633fc730-6333228.jpg",
+    "highlight": false
+  },
+  {
     "id": "2",
     "title": "A Euroma2 arriva il Natale!",
     "date": "2022-12-01",
