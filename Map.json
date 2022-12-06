@@ -2,17 +2,17 @@
   "floors" : [
   {
     "id":"0",
-    "modelUrl":"index",
+    "modelUrl":"floor1",
     "name":"1"
   },
   {
     "id":"1",
-    "modelUrl":"index",
+    "modelUrl":"floor2",
     "name":"2"
   },
   {
     "id":"3",
-    "modelUrl":"index",
+    "modelUrl":"floor3",
     "name":"3"
   }
 ],
