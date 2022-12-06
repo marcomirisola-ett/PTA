@@ -37,8 +37,69 @@
          "from":"2021-11-01",
          "to":"2023-12-01"
       },
-      "image":"https://picsum.photos/id/236/200/300",
+      "image":"https://picsum.photos/id/2134/200/300",
       "title":"il 20%",
+      "description":"su tutti i modelli Adidas! Descirzione promozione 3",
+      "interestIds":[
+         "1",
+         "5",
+         "8"
+      ]
+   },
+   {
+      "id":"4",
+      "shopId":"8",
+      "dateRange":{
+         "from":"2022-10-04",
+         "to":"2022-12-12"
+      },
+      "image":"https://picsum.photos/id/632/400/600",
+      "title":"il 20%",
+      "description":"su tutti i modelli Adidas! Descirzione promozione 3",
+      "interestIds":[
+         "1",
+         "5",
+         "8"
+      ]
+   },
+   {
+      "id":"5",
+      "shopId":"12",
+      "dateRange":{
+         "from":"2022-12-12",
+         "to":"2023-01-01"
+      },
+      "image":"https://picsum.photos/id/534/400/600",
+      "title":"Un evento unico",
+      "description":"su tutti i modelli Adidas! Descirzione promozione 3",
+      "interestIds":[
+         "2",
+         "4"
+      ]
+   },
+   {
+      "id":"6",
+      "shopId":"11",
+      "dateRange":{
+         "from":"2023-01-01",
+         "to":"2023-01-01"
+      },
+      "image":"https://picsum.photos/id/123/200/300",
+      "title":"Grandi eventi!",
+      "description":"su tutti i modelli Adidas! Descirzione promozione 3",
+      "interestIds":[
+         "6"
+      ]
+   },
+   {
+      "id":"7",
+      "shopId":"12",
+      "dateRange":{
+         "from":"2022-12-31",
+         "to":"2023-01-01"
+      },
+      "image":"https://picsum.photos/id/245/200/300",
+      "title":"Capodanno",
       "description":"su tutti i modelli Adidas! Descirzione promozione 3",
       "interestIds":[
          "1",
