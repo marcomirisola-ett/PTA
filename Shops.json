@@ -10,6 +10,14 @@
       "monday": {
         "from": "10:00",
         "to": "22:00"
+      },
+       "tuesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+       "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
       }
     },
     "interestIds": [
