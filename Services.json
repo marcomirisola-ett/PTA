@@ -52,8 +52,8 @@
     "title": "Wallet",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "order": 6,
-    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/Res/wallet_icon_on.png",
-    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/Res/wallet_icon_off.png"
+    "iconOn": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/Res/portfolio_icon_on.png",
+    "iconOff": "https://raw.githubusercontent.com/marcomirisola-ett/PTA/main/Res/portfolio_icon_off.png"
   },
   {
     "id": "7",
