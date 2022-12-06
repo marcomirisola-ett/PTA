@@ -18,6 +18,10 @@
        "wednesday": {
         "from": "10:00",
         "to": "22:00"
+      },
+       "thursday": {
+        "from": "10:00",
+        "to": "22:00"
       }
     },
     "interestIds": [
@@ -37,7 +41,12 @@
       "monday": {
         "from": "10:00",
         "to": "22:00"
+      },
+      "thursday": {
+        "from": "00:00",
+        "to": "23:59"
       }
+      
     },
     "phoneNumber": "0000000000",
     "firstOpeningDay": "2022-11-29",
