@@ -1,0 +1,1217 @@
+{
+  "accessibilityGraph": [
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_001",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_002",
+          "weight": 7.212594922575665
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_065",
+          "weight": 7.111871402958669
+        }
+      ],
+      "attachedShopNodeName": "Shop_01_P147-148"
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_002",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_001",
+          "weight": 7.212594922575665
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_003",
+          "weight": 4.313334154532076
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_003",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_002",
+          "weight": 4.313334154532076
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_004",
+          "weight": 4.412247740404049
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_004",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_003",
+          "weight": 4.412247740404049
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_005",
+          "weight": 11.081825162093564
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_005",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_004",
+          "weight": 11.081825162093564
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_006",
+          "weight": 6.651012891459603
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_066",
+          "weight": 10.968378069600213
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_006",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_005",
+          "weight": 6.651012891459603
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_007",
+          "weight": 13.302050292162315
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_007",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_006",
+          "weight": 13.302050292162315
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_008",
+          "weight": 6.20763397266025
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_068",
+          "weight": 11.230373948532211
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_008",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_007",
+          "weight": 6.20763397266025
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_009",
+          "weight": 7.094375458482449
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_070",
+          "weight": 14.478312432735192
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_009",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_008",
+          "weight": 7.094375458482449
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_010",
+          "weight": 6.177616074098081
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_069",
+          "weight": 12.464078223724607
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_010",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_009",
+          "weight": 6.177616074098081
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_011",
+          "weight": 4.8694404689986275
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_071",
+          "weight": 10.989560623215754
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_011",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_010",
+          "weight": 4.8694404689986275
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_012",
+          "weight": 4.8330643941209965
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_012",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_011",
+          "weight": 4.8330643941209965
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_013",
+          "weight": 3.9662630249913584
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_013",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_012",
+          "weight": 3.9662630249913584
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_014",
+          "weight": 4.406677583054756
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_014",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_013",
+          "weight": 4.406677583054756
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_015",
+          "weight": 5.0942030471583175
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_015",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_014",
+          "weight": 5.0942030471583175
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_016",
+          "weight": 5.963013220147933
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_079",
+          "weight": 13.289320473437769
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_016",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_015",
+          "weight": 5.963013220147933
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_017",
+          "weight": 7.137378597350364
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_079",
+          "weight": 10.395721851065852
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_017",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_016",
+          "weight": 7.137378597350364
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_018",
+          "weight": 5.843390107052129
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_079",
+          "weight": 10.996162974272512
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_080",
+          "weight": 11.380283772131047
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_018",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_017",
+          "weight": 5.843390107052129
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_019",
+          "weight": 17.180448688489452
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_080",
+          "weight": 10.459918671152206
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_019",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_018",
+          "weight": 17.180448688489452
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_020",
+          "weight": 9.744862112795117
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_020",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_019",
+          "weight": 9.744862112795117
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_021",
+          "weight": 7.083502097703356
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_083",
+          "weight": 13.44817504000784
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_021",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_020",
+          "weight": 7.083502097703356
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_022",
+          "weight": 4.384108287386104
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_022",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_021",
+          "weight": 4.384108287386104
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_023",
+          "weight": 4.390185552469063
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_023",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_022",
+          "weight": 4.390185552469063
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_024",
+          "weight": 4.418122537387569
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_024",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_023",
+          "weight": 4.418122537387569
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_025",
+          "weight": 10.61330989416406
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_025",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_024",
+          "weight": 10.61330989416406
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_026",
+          "weight": 7.329127301545235
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_087",
+          "weight": 12.239586621376885
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_026",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_025",
+          "weight": 7.329127301545235
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_027",
+          "weight": 4.338807048507
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_027",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_026",
+          "weight": 4.338807048507
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_028",
+          "weight": 5.108675785395437
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_028",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_027",
+          "weight": 5.108675785395437
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_029",
+          "weight": 6.893163460137949
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_029",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_028",
+          "weight": 6.893163460137949
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_030",
+          "weight": 11.406914588478827
+        }
+      ],
+      "attachedShopNodeName": "Shop_01_P115"
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_066",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_005",
+          "weight": 10.968378069600213
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_067",
+          "weight": 9.63830694122349
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_122",
+          "weight": 3.0200241798594076
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_122",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_066",
+          "weight": 3.0200241798594076
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_121",
+          "weight": 2.691260078748186
+        }
+      ],
+      "attachedShopNodeName": "Shop_01_P239"
+    }
+  ],
+  "completeGraph": [
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_001",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_002",
+          "weight": 7.212594922575665
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_065",
+          "weight": 7.111871402958669
+        }
+      ],
+      "attachedShopNodeName": "Shop_01_P147-148"
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_002",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_001",
+          "weight": 7.212594922575665
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_003",
+          "weight": 4.313334154532076
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_003",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_002",
+          "weight": 4.313334154532076
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_004",
+          "weight": 4.412247740404049
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_004",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_003",
+          "weight": 4.412247740404049
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_005",
+          "weight": 11.081825162093564
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_005",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_004",
+          "weight": 11.081825162093564
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_006",
+          "weight": 6.651012891459603
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_066",
+          "weight": 10.968378069600213
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_006",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_005",
+          "weight": 6.651012891459603
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_007",
+          "weight": 13.302050292162315
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_007",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_006",
+          "weight": 13.302050292162315
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_008",
+          "weight": 6.20763397266025
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_068",
+          "weight": 11.230373948532211
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_008",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_007",
+          "weight": 6.20763397266025
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_009",
+          "weight": 7.094375458482449
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_070",
+          "weight": 14.478312432735192
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_009",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_008",
+          "weight": 7.094375458482449
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_010",
+          "weight": 6.177616074098081
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_069",
+          "weight": 12.464078223724607
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_010",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_009",
+          "weight": 6.177616074098081
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_011",
+          "weight": 4.8694404689986275
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_071",
+          "weight": 10.989560623215754
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_011",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_010",
+          "weight": 4.8694404689986275
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_012",
+          "weight": 4.8330643941209965
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_012",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_011",
+          "weight": 4.8330643941209965
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_013",
+          "weight": 3.9662630249913584
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_013",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_012",
+          "weight": 3.9662630249913584
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_014",
+          "weight": 4.406677583054756
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_014",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_013",
+          "weight": 4.406677583054756
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_015",
+          "weight": 5.0942030471583175
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_015",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_014",
+          "weight": 5.0942030471583175
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_016",
+          "weight": 5.963013220147933
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_079",
+          "weight": 13.289320473437769
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_016",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_015",
+          "weight": 5.963013220147933
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_017",
+          "weight": 7.137378597350364
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_079",
+          "weight": 10.395721851065852
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_017",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_016",
+          "weight": 7.137378597350364
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_018",
+          "weight": 5.843390107052129
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_079",
+          "weight": 10.996162974272512
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_080",
+          "weight": 11.380283772131047
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_018",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_017",
+          "weight": 5.843390107052129
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_019",
+          "weight": 17.180448688489452
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_080",
+          "weight": 10.459918671152206
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_019",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_018",
+          "weight": 17.180448688489452
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_020",
+          "weight": 9.744862112795117
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_020",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_019",
+          "weight": 9.744862112795117
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_021",
+          "weight": 7.083502097703356
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_083",
+          "weight": 13.44817504000784
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_021",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_020",
+          "weight": 7.083502097703356
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_022",
+          "weight": 4.384108287386104
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_022",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_021",
+          "weight": 4.384108287386104
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_023",
+          "weight": 4.390185552469063
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_023",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_022",
+          "weight": 4.390185552469063
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_024",
+          "weight": 4.418122537387569
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_024",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_023",
+          "weight": 4.418122537387569
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_025",
+          "weight": 10.61330989416406
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_025",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_024",
+          "weight": 10.61330989416406
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_026",
+          "weight": 7.329127301545235
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_087",
+          "weight": 12.239586621376885
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_026",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_025",
+          "weight": 7.329127301545235
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_027",
+          "weight": 4.338807048507
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_027",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_026",
+          "weight": 4.338807048507
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_028",
+          "weight": 5.108675785395437
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_028",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_027",
+          "weight": 5.108675785395437
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_029",
+          "weight": 6.893163460137949
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_029",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_028",
+          "weight": 6.893163460137949
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_030",
+          "weight": 11.406914588478827
+        }
+      ],
+      "attachedShopNodeName": "Shop_01_P115"
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_066",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_005",
+          "weight": 10.968378069600213
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_067",
+          "weight": 9.63830694122349
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_122",
+          "weight": 3.0200241798594076
+        }
+      ],
+      "attachedShopNodeName": null
+    },
+    {
+      "floorId": "first-floor",
+      "nodeName": "Navpoint_01_122",
+      "relations": [
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_066",
+          "weight": 3.0200241798594076
+        },
+        {
+          "targetFloorId": "first-floor",
+          "targetNavPointNodeName": "Navpoint_01_121",
+          "weight": 2.691260078748186
+        }
+      ],
+      "attachedShopNodeName": "Shop_01_P239"
+    }
+  ],
+  "floors": [
+    {
+      "id": "first-floor",
+      "modelUrl": "https://demo02.ettsolutions.it/ettproject/euroma2-gltf/PTA_FLoor_01.gltf",
+      "name": "First floor"
+    }
+  ],
+  "shops": [
+    {
+      "attachedNavPoint": "Navpoint_01_001",
+      "floorId": "first-floor",
+      "nodeName": "Shop_01_P147-148",
+      "shopId": "1"
+    },
+    {
+      "attachedNavPoint": "Navpoint_01_122",
+      "floorId": "first-floor",
+      "nodeName": "Shop_01_P239",
+      "shopId": "2"
+    },
+    {
+      "attachedNavPoint": "Navpoint_01_029",
+      "floorId": "first-floor",
+      "nodeName": "Shop_01_P115",
+      "shopId": "222"
+    }
+  ]
+}
