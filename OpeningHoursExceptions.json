@@ -1,4 +1,5 @@
-[{
+[
+    {
        "dateRange":{
          "from":"2022-12-14",
          "to":"2022-12-31"
@@ -24,5 +25,6 @@
       "to": "22:00",
       "fromWeekDay": "Monday",
       "toWeekDay": "Sunday"
-    },
+    }
+  }
 ]
