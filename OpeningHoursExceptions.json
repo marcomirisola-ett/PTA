@@ -1,0 +1,28 @@
+[{
+       "dateRange":{
+         "from":"2022-12-14",
+         "to":"2022-12-31"
+      },
+     "global": {
+       "from": "11:00",
+       "to": "19:00" 
+     },
+     "food": {
+      "from": "13:00",
+      "to": "19:00",
+      "fromWeekDay": "Monday",
+      "toWeekDay": "Sunday"
+    },
+    "hypermarket": {
+      "from": "11:00",
+      "to": "19:00",
+      "fromWeekDay": "Monday",
+      "toWeekDay": "Sunday"
+    },
+    "ourStores": {
+      "from": "11:00",
+      "to": "22:00",
+      "fromWeekDay": "Monday",
+      "toWeekDay": "Sunday"
+    },
+]
