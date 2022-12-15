@@ -1192,6 +1192,16 @@
       "id": "first-floor",
       "modelUrl": "https://demo02.ettsolutions.it/ettproject/euroma2-gltf/PTA_FLoor_01.gltf",
       "name": "First floor"
+    },
+    {
+      "id": "second-floor",
+      "modelUrl": "https://demo02.ettsolutions.it/ettproject/euroma2-gltf/PTA_FLoor_01.gltf",
+      "name": "Second floor"
+    },
+    {
+      "id": "third-floor",
+      "modelUrl": "https://demo02.ettsolutions.it/ettproject/euroma2-gltf/PTA_FLoor_01.gltf",
+      "name": "Third floor"
     }
   ],
   "shops": [
