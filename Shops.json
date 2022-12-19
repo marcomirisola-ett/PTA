@@ -666,5 +666,92 @@
       "0",
       "8"
     ]
+  },
+  {
+    "id": "140",
+    "title": "01 7 Camicie",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "141",
+    "title": "01 Adidas",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "142",
+    "title": "01 Mc Donald's",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
   }
 ]
