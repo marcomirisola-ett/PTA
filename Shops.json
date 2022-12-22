@@ -733,7 +733,7 @@
     "subCategoryId": "1",
     "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
     "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
-    "openingHours": null,
+    "openingHours": {},
     "phoneNumber": "0000000000",
     "firstOpeningDay": "2020-10-29",
     "interestIds": [
