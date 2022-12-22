@@ -690,7 +690,7 @@
       }
     },
     "phoneNumber": "0000000000",
-    "firstOpeningDay": "2020-10-29",
+    "firstOpeningDay": "2023-03-15",
     "interestIds": [
       "0",
       "8"
@@ -719,7 +719,7 @@
       }
     },
     "phoneNumber": "0000000000",
-    "firstOpeningDay": "2020-10-29",
+    "firstOpeningDay": "2023-01-01",
     "interestIds": [
       "0",
       "8"
@@ -733,20 +733,7 @@
     "subCategoryId": "1",
     "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
     "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
-    "openingHours": {
-      "wednesday": {
-        "from": "10:00",
-        "to": "22:00"
-      },
-      "thursday": {
-        "from": "10:00",
-        "to": "22:00"
-      },
-      "friday": {
-        "from": "09:00",
-        "to": "20:00"
-      }
-    },
+    "openingHours": null,
     "phoneNumber": "0000000000",
     "firstOpeningDay": "2020-10-29",
     "interestIds": [
