@@ -1,0 +1,739 @@
+[
+  {
+    "id": "0",
+    "title": "McDonald's",
+    "description": "Goditi una pausa a un prezzo speciale con DoubleBurger BBQ o Double Chicken BBQ. Ci sono pause che fanno la differenza, come la pausa pranzo di McDonald's. Ingredienti di Qualità. Sicurezza Alimentare. 100% Made in Italy. Sostenibilità.",
+    "categoryId": "8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+    "photo": "https://forbes.it/wp-content/uploads/2020/03/mcdonalds-fast-food-shutterstock-800x534.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+       "tuesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+       "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+       "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "1",
+    "title": "DentalPro",
+    "description": "Ritorna a Sorridere: Scopri Come Curare la Parodontite con la Garanzia DentalPro. Il Più Grande Gruppo di Cure Dentali in Italia: Scegli DentalPro. Qualità DentalPro. Vicini a Te.",
+    "categoryId": "3",
+    "subCategoryId": "3",
+    "logo": "https://www.dentalpro.it/logo-dentalpro.png",
+    "photo": "https://www.dentaljournal.it/wp-content/uploads/2021/12/dentalpro-partnership-1024x512.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "00:00",
+        "to": "23:59"
+      }
+      
+    },
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Adidas",
+    "description": "Lo sport ci mantiene in forma. Nel corpo e nello spirito. Ci unisce. Ha il potere di cambiare la vita delle persone. Attraverso storie di atleti di successo, ispirazione e suggerimenti per l'allenamento. Articoli sportivi dotati delle tecnologie più sofisticate per migliorare le tue performance. Migliora i tuoi record personali. adidas è la casa degli amanti di ogni sport, dal running al calcio. Per chi vuole fuggire dal caos della città e dedicarsi all'hiking. Per l'appassionata di yoga che vuole eseguire pose perfette. Le 3 Strisce sono protagoniste della scena musicale. Sul palcoscenico dei festival. In un negozio di articoli sportivi adidas trovi prodotti che ti permettono di mantenere la concentrazione fino al fischio finale. Durante una gara. Fino al traguardo. Siamo qui per sostenere ogni creator. Migliorare le loro performance, le loro vite, e cambiare il mondo.",
+    "categoryId": "1",
+    "subCategoryId": "3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Adidas_isologo.svg/1200px-Adidas_isologo.svg.png",
+    "photo": "https://cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/OX5XLJEISFFD3DEFIIVIFXPDSE.jpg",
+    "openingHours": {
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "7 Camicie",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "GMcDonald's",
+    "description": "Goditi una pausa a un prezzo speciale con DoubleBurger BBQ o Double Chicken BBQ. Ci sono pause che fanno la differenza, come la pausa pranzo di McDonald's. Ingredienti di Qualità. Sicurezza Alimentare. 100% Made in Italy. Sostenibilità.",
+    "categoryId": "8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+    "photo": "https://forbes.it/wp-content/uploads/2020/03/mcdonalds-fast-food-shutterstock-800x534.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "HDentalPro",
+    "description": "Ritorna a Sorridere: Scopri Come Curare la Parodontite con la Garanzia DentalPro. Il Più Grande Gruppo di Cure Dentali in Italia: Scegli DentalPro. Qualità DentalPro. Vicini a Te.",
+    "categoryId": "3",
+    "subCategoryId": "3",
+    "logo": "https://www.dentalpro.it/logo-dentalpro.png",
+    "photo": "https://www.dentaljournal.it/wp-content/uploads/2021/12/dentalpro-partnership-1024x512.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2023-01-06",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "LAdidas",
+    "description": "Lo sport ci mantiene in forma. Nel corpo e nello spirito. Ci unisce. Ha il potere di cambiare la vita delle persone. Attraverso storie di atleti di successo, ispirazione e suggerimenti per l'allenamento. Articoli sportivi dotati delle tecnologie più sofisticate per migliorare le tue performance. Migliora i tuoi record personali. adidas è la casa degli amanti di ogni sport, dal running al calcio. Per chi vuole fuggire dal caos della città e dedicarsi all'hiking. Per l'appassionata di yoga che vuole eseguire pose perfette. Le 3 Strisce sono protagoniste della scena musicale. Sul palcoscenico dei festival. In un negozio di articoli sportivi adidas trovi prodotti che ti permettono di mantenere la concentrazione fino al fischio finale. Durante una gara. Fino al traguardo. Siamo qui per sostenere ogni creator. Migliorare le loro performance, le loro vite, e cambiare il mondo.",
+    "categoryId": "1",
+    "subCategoryId": "3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Adidas_isologo.svg/1200px-Adidas_isologo.svg.png",
+    "photo": "https://cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/OX5XLJEISFFD3DEFIIVIFXPDSE.jpg",
+    "openingHours": {
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "M7 Camicie",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "NMcDonald's",
+    "description": "Goditi una pausa a un prezzo speciale con DoubleBurger BBQ o Double Chicken BBQ. Ci sono pause che fanno la differenza, come la pausa pranzo di McDonald's. Ingredienti di Qualità. Sicurezza Alimentare. 100% Made in Italy. Sostenibilità.",
+    "categoryId": "8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+    "photo": "https://forbes.it/wp-content/uploads/2020/03/mcdonalds-fast-food-shutterstock-800x534.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "ODentalPro",
+    "description": "Ritorna a Sorridere: Scopri Come Curare la Parodontite con la Garanzia DentalPro. Il Più Grande Gruppo di Cure Dentali in Italia: Scegli DentalPro. Qualità DentalPro. Vicini a Te.",
+    "categoryId": "3",
+    "subCategoryId": "3",
+    "logo": "https://www.dentalpro.it/logo-dentalpro.png",
+    "photo": "https://www.dentaljournal.it/wp-content/uploads/2021/12/dentalpro-partnership-1024x512.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2022-11-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "PAdidas",
+    "description": "Lo sport ci mantiene in forma. Nel corpo e nello spirito. Ci unisce. Ha il potere di cambiare la vita delle persone. Attraverso storie di atleti di successo, ispirazione e suggerimenti per l'allenamento. Articoli sportivi dotati delle tecnologie più sofisticate per migliorare le tue performance. Migliora i tuoi record personali. adidas è la casa degli amanti di ogni sport, dal running al calcio. Per chi vuole fuggire dal caos della città e dedicarsi all'hiking. Per l'appassionata di yoga che vuole eseguire pose perfette. Le 3 Strisce sono protagoniste della scena musicale. Sul palcoscenico dei festival. In un negozio di articoli sportivi adidas trovi prodotti che ti permettono di mantenere la concentrazione fino al fischio finale. Durante una gara. Fino al traguardo. Siamo qui per sostenere ogni creator. Migliorare le loro performance, le loro vite, e cambiare il mondo.",
+    "categoryId": "1",
+    "subCategoryId": "3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Adidas_isologo.svg/1200px-Adidas_isologo.svg.png",
+    "photo": "https://cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/OX5XLJEISFFD3DEFIIVIFXPDSE.jpg",
+    "openingHours": {
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Q8 Camicie",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "RMcDonald's",
+    "description": "Goditi una pausa a un prezzo speciale con DoubleBurger BBQ o Double Chicken BBQ. Ci sono pause che fanno la differenza, come la pausa pranzo di McDonald's. Ingredienti di Qualità. Sicurezza Alimentare. 100% Made in Italy. Sostenibilità.",
+    "categoryId": "8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+    "photo": "https://forbes.it/wp-content/uploads/2020/03/mcdonalds-fast-food-shutterstock-800x534.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "VDentalPro",
+    "description": "Ritorna a Sorridere: Scopri Come Curare la Parodontite con la Garanzia DentalPro. Il Più Grande Gruppo di Cure Dentali in Italia: Scegli DentalPro. Qualità DentalPro. Vicini a Te.",
+    "categoryId": "3",
+    "subCategoryId": "3",
+    "logo": "https://www.dentalpro.it/logo-dentalpro.png",
+    "photo": "https://www.dentaljournal.it/wp-content/uploads/2021/12/dentalpro-partnership-1024x512.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2022-11-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "XAdidas",
+    "description": "Lo sport ci mantiene in forma. Nel corpo e nello spirito. Ci unisce. Ha il potere di cambiare la vita delle persone. Attraverso storie di atleti di successo, ispirazione e suggerimenti per l'allenamento. Articoli sportivi dotati delle tecnologie più sofisticate per migliorare le tue performance. Migliora i tuoi record personali. adidas è la casa degli amanti di ogni sport, dal running al calcio. Per chi vuole fuggire dal caos della città e dedicarsi all'hiking. Per l'appassionata di yoga che vuole eseguire pose perfette. Le 3 Strisce sono protagoniste della scena musicale. Sul palcoscenico dei festival. In un negozio di articoli sportivi adidas trovi prodotti che ti permettono di mantenere la concentrazione fino al fischio finale. Durante una gara. Fino al traguardo. Siamo qui per sostenere ogni creator. Migliorare le loro performance, le loro vite, e cambiare il mondo.",
+    "categoryId": "1",
+    "subCategoryId": "3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Adidas_isologo.svg/1200px-Adidas_isologo.svg.png",
+    "photo": "https://cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/OX5XLJEISFFD3DEFIIVIFXPDSE.jpg",
+    "openingHours": {
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Z7 Camicie",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "LMcDonald's",
+    "description": "Goditi una pausa a un prezzo speciale con DoubleBurger BBQ o Double Chicken BBQ. Ci sono pause che fanno la differenza, come la pausa pranzo di McDonald's. Ingredienti di Qualità. Sicurezza Alimentare. 100% Made in Italy. Sostenibilità.",
+    "categoryId": "8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+    "photo": "https://forbes.it/wp-content/uploads/2020/03/mcdonalds-fast-food-shutterstock-800x534.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "2DentalPro",
+    "description": "Ritorna a Sorridere: Scopri Come Curare la Parodontite con la Garanzia DentalPro. Il Più Grande Gruppo di Cure Dentali in Italia: Scegli DentalPro. Qualità DentalPro. Vicini a Te.",
+    "categoryId": "3",
+    "subCategoryId": "3",
+    "logo": "https://www.dentalpro.it/logo-dentalpro.png",
+    "photo": "https://www.dentaljournal.it/wp-content/uploads/2021/12/dentalpro-partnership-1024x512.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2022-11-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "18",
+    "title": "ZAdidas",
+    "description": "Lo sport ci mantiene in forma. Nel corpo e nello spirito. Ci unisce. Ha il potere di cambiare la vita delle persone. Attraverso storie di atleti di successo, ispirazione e suggerimenti per l'allenamento. Articoli sportivi dotati delle tecnologie più sofisticate per migliorare le tue performance. Migliora i tuoi record personali. adidas è la casa degli amanti di ogni sport, dal running al calcio. Per chi vuole fuggire dal caos della città e dedicarsi all'hiking. Per l'appassionata di yoga che vuole eseguire pose perfette. Le 3 Strisce sono protagoniste della scena musicale. Sul palcoscenico dei festival. In un negozio di articoli sportivi adidas trovi prodotti che ti permettono di mantenere la concentrazione fino al fischio finale. Durante una gara. Fino al traguardo. Siamo qui per sostenere ogni creator. Migliorare le loro performance, le loro vite, e cambiare il mondo.",
+    "categoryId": "1",
+    "subCategoryId": "3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Adidas_isologo.svg/1200px-Adidas_isologo.svg.png",
+    "photo": "https://cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/OX5XLJEISFFD3DEFIIVIFXPDSE.jpg",
+    "openingHours": {
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "K7 Camicie",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "20",
+    "title": "XMcDonald's",
+    "description": "Goditi una pausa a un prezzo speciale con DoubleBurger BBQ o Double Chicken BBQ. Ci sono pause che fanno la differenza, come la pausa pranzo di McDonald's. Ingredienti di Qualità. Sicurezza Alimentare. 100% Made in Italy. Sostenibilità.",
+    "categoryId": "8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+    "photo": "https://forbes.it/wp-content/uploads/2020/03/mcdonalds-fast-food-shutterstock-800x534.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "21",
+    "title": "XDentalPro",
+    "description": "Ritorna a Sorridere: Scopri Come Curare la Parodontite con la Garanzia DentalPro. Il Più Grande Gruppo di Cure Dentali in Italia: Scegli DentalPro. Qualità DentalPro. Vicini a Te.",
+    "categoryId": "3",
+    "subCategoryId": "3",
+    "logo": "https://www.dentalpro.it/logo-dentalpro.png",
+    "photo": "https://www.dentaljournal.it/wp-content/uploads/2021/12/dentalpro-partnership-1024x512.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2022-11-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "BAdidas",
+    "description": "Lo sport ci mantiene in forma. Nel corpo e nello spirito. Ci unisce. Ha il potere di cambiare la vita delle persone. Attraverso storie di atleti di successo, ispirazione e suggerimenti per l'allenamento. Articoli sportivi dotati delle tecnologie più sofisticate per migliorare le tue performance. Migliora i tuoi record personali. adidas è la casa degli amanti di ogni sport, dal running al calcio. Per chi vuole fuggire dal caos della città e dedicarsi all'hiking. Per l'appassionata di yoga che vuole eseguire pose perfette. Le 3 Strisce sono protagoniste della scena musicale. Sul palcoscenico dei festival. In un negozio di articoli sportivi adidas trovi prodotti che ti permettono di mantenere la concentrazione fino al fischio finale. Durante una gara. Fino al traguardo. Siamo qui per sostenere ogni creator. Migliorare le loro performance, le loro vite, e cambiare il mondo.",
+    "categoryId": "1",
+    "subCategoryId": "3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Adidas_isologo.svg/1200px-Adidas_isologo.svg.png",
+    "photo": "https://cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/OX5XLJEISFFD3DEFIIVIFXPDSE.jpg",
+    "openingHours": {
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "A7 Camicie",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "24",
+    "title": "FMcDonald's",
+    "description": "Goditi una pausa a un prezzo speciale con DoubleBurger BBQ o Double Chicken BBQ. Ci sono pause che fanno la differenza, come la pausa pranzo di McDonald's. Ingredienti di Qualità. Sicurezza Alimentare. 100% Made in Italy. Sostenibilità.",
+    "categoryId": "8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/800px-McDonald%27s_Golden_Arches.svg.png",
+    "photo": "https://forbes.it/wp-content/uploads/2020/03/mcdonalds-fast-food-shutterstock-800x534.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "25",
+    "title": "FDentalPro",
+    "description": "Ritorna a Sorridere: Scopri Come Curare la Parodontite con la Garanzia DentalPro. Il Più Grande Gruppo di Cure Dentali in Italia: Scegli DentalPro. Qualità DentalPro. Vicini a Te.",
+    "categoryId": "3",
+    "subCategoryId": "3",
+    "logo": "https://www.dentalpro.it/logo-dentalpro.png",
+    "photo": "https://www.dentaljournal.it/wp-content/uploads/2021/12/dentalpro-partnership-1024x512.jpg",
+    "openingHours": {
+      "monday": {
+        "from": "10:00",
+        "to": "22:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2022-11-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "26",
+    "title": "QAdidas",
+    "description": "Lo sport ci mantiene in forma. Nel corpo e nello spirito. Ci unisce. Ha il potere di cambiare la vita delle persone. Attraverso storie di atleti di successo, ispirazione e suggerimenti per l'allenamento. Articoli sportivi dotati delle tecnologie più sofisticate per migliorare le tue performance. Migliora i tuoi record personali. adidas è la casa degli amanti di ogni sport, dal running al calcio. Per chi vuole fuggire dal caos della città e dedicarsi all'hiking. Per l'appassionata di yoga che vuole eseguire pose perfette. Le 3 Strisce sono protagoniste della scena musicale. Sul palcoscenico dei festival. In un negozio di articoli sportivi adidas trovi prodotti che ti permettono di mantenere la concentrazione fino al fischio finale. Durante una gara. Fino al traguardo. Siamo qui per sostenere ogni creator. Migliorare le loro performance, le loro vite, e cambiare il mondo.",
+    "categoryId": "1",
+    "subCategoryId": "3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Adidas_isologo.svg/1200px-Adidas_isologo.svg.png",
+    "photo": "https://cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/OX5XLJEISFFD3DEFIIVIFXPDSE.jpg",
+    "openingHours": {
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Q7 Camicie",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "140",
+    "title": "01 7 Camicie",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2023-03-15",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "141",
+    "title": "01 Adidas",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {
+      "wednesday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "thursday": {
+        "from": "10:00",
+        "to": "22:00"
+      },
+      "friday": {
+        "from": "09:00",
+        "to": "20:00"
+      }
+    },
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2023-01-01",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  },
+  {
+    "id": "142",
+    "title": "01 Mc Donald's",
+    "description": "Gli esperti delle camicie. Scopri e acquista nel nostro Shop la vasta collezione di Camicie Uomo, Donna e Bambino e l'abbigliamento uomo di 7camicie.",
+    "categoryId": "1",
+    "subCategoryId": "1",
+    "logo": "https://img.advisato.com/assets/images/sites/7camicie-codice-sconto.jpg?v1625479952",
+    "photo": "https://www.7camicie.com/img/st-afsl/stores/IMG_1826.jpg",
+    "openingHours": {},
+    "phoneNumber": "0000000000",
+    "firstOpeningDay": "2020-10-29",
+    "interestIds": [
+      "0",
+      "8"
+    ]
+  }
+]
