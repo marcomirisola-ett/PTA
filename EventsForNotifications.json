@@ -69,20 +69,7 @@
       "to": "2023-11-01"
     }
   },
-  {
-    "id": "8",
-    "image": "https://picsum.photos/id/120/200/300",
-    "title": "Evento 8",
-    "description": "Descrizione evento 3",
-    "interestIds": [
-      "5",
-      "4"
-    ],
-    "dateRange": {
-      "from": "2022-12-15",
-      "to": "2023-01-01"
-    }
-  },
+  
   
    {
     "id": "9",
