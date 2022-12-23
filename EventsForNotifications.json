@@ -82,6 +82,20 @@
       "from": "2022-12-31",
       "to": "2023-01-01"
     }
+  },
+   {
+    "id": "25",
+    "image": "https://picsum.photos/id/120/200/300",
+    "title": "Evento 6",
+    "description": "Descrizione evento 3",
+    "interestIds": [
+      "5",
+      "4"
+    ],
+    "dateRange": {
+      "from": "2022-12-31",
+      "to": "2023-01-01"
+    }
   }
   
   
