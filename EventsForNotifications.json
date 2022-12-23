@@ -84,9 +84,9 @@
     }
   },
    {
-    "id": "32",
+    "id": "41",
     "image": "https://picsum.photos/id/120/200/300",
-    "title": "Evento 32",
+    "title": "Evento 41",
     "description": "Descrizione evento 3",
     "interestIds": [
       "5",
