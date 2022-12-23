@@ -83,34 +83,7 @@
       "to": "2023-01-01"
     }
   },
-  {
-    "id": "6",
-    "image": "https://picsum.photos/id/120/200/300",
-    "title": "Evento 6",
-    "description": "Descrizione evento 3",
-    "interestIds": [
-      "5",
-      "4"
-    ],
-    "dateRange": {
-      "from": "2022-12-31",
-      "to": "2023-01-01"
-    }
-  },
-  {
-    "id": "7",
-    "image": "https://picsum.photos/id/135/200/300",
-    "title": "Evento 7",
-    "description": "Descrizione evento 7",
-    "interestIds": [
-      "6",
-      "8"
-    ],
-    "dateRange": {
-      "from": "2023-01-12",
-      "to": "2023-02-01"
-    }
-  },
+  
    {
     "id": "9",
     "image": "https://picsum.photos/id/135/200/300",
