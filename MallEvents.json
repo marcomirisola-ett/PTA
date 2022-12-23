@@ -110,5 +110,19 @@
       "from": "2023-01-12",
       "to": "2023-02-01"
     }
+  },
+   {
+    "id": "8",
+    "image": "https://picsum.photos/id/135/200/300",
+    "title": "Evento nuovo",
+    "description": "Descrizione evento nuovo",
+    "interestIds": [
+      "6",
+      "8"
+    ],
+    "dateRange": {
+      "from": "2022-12-14",
+      "to": "2023-02-01"
+    }
   }
 ]
