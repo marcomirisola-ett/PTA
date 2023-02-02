@@ -1,0 +1,86 @@
+[
+  {
+    "IdQuestion":1,
+    "Question": "Testo domanda 1?",
+    "Answers": [
+      {
+        "IdAnswer": 1,
+        "Answer": "Risposta 1",
+        "IdQuestionNext": 2
+      },
+      {
+        "IdAnswer": 2,
+        "Answer": "Risposta 2",
+        "IdQuestionNext": 2
+      },
+      {
+        "IdAnswer": 3,
+        "Answer": "Risposta 3",
+        "IdQuestionNext": 3
+      }
+    ]
+  },
+  {
+    "IdQuestion":2,
+    "Question": "Testo domanda 2?",
+    "Answers": [
+      {
+        "IdAnswer": 1,
+        "Answer": "Risposta 1",
+        "IdQuestionNext": 4
+      },
+      {
+        "IdAnswer": 2,
+        "Answer": "Risposta 2",
+        "IdQuestionNext": 3
+      },
+      {
+        "IdAnswer": 3,
+        "Answer": "Risposta 3",
+        "IdQuestionNext": 3
+      }
+    ]
+  },
+  {
+    "IdQuestion":3,
+    "Question": "Testo domanda 3?",
+    "Answers": [
+      {
+        "IdAnswer": 1,
+        "Answer": "Risposta 1",
+        "IdQuestionNext": 4
+      },
+      {
+        "IdAnswer": 2,
+        "Answer": "Risposta 2",
+        "IdQuestionNext": 4
+      },
+      {
+        "IdAnswer": 3,
+        "Answer": "Risposta 3",
+        "IdQuestionNext": 4
+      }
+    ]
+  },
+  {
+    "IdQuestion":4,
+    "Question": "Testo domanda 4?",
+    "Answers": [
+      {
+        "IdAnswer": 1,
+        "Answer": "Risposta 1",
+        "IdQuestionNext": null
+      },
+      {
+        "IdAnswer": 2,
+        "Answer": "Risposta 2",
+        "IdQuestionNext": null
+      },
+      {
+        "IdAnswer": 3,
+        "Answer": "Risposta 3",
+        "IdQuestionNext": null
+      }
+    ]
+  }
+]
