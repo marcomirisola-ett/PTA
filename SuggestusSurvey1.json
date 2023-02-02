@@ -15,7 +15,7 @@
       },
       {
         "IdAnswer": 3,
-        "Answer": "Risposta 3",
+        "Answer": "Risposta 3 salta alla 3",
         "IdQuestionNext": 3
       }
     ]
@@ -26,7 +26,7 @@
     "Answers": [
       {
         "IdAnswer": 1,
-        "Answer": "Risposta 1",
+        "Answer": "Risposta 1 salta alla 4",
         "IdQuestionNext": 4
       },
       {
@@ -68,17 +68,59 @@
     "Answers": [
       {
         "IdAnswer": 1,
-        "Answer": "Risposta 1",
-        "IdQuestionNext": null
+        "Answer": "Risposta 1 vai alla 6",
+        "IdQuestionNext": 6
       },
       {
         "IdAnswer": 2,
-        "Answer": "Risposta 2",
+        "Answer": "Risposta 2 fine",
         "IdQuestionNext": null
       },
       {
         "IdAnswer": 3,
-        "Answer": "Risposta 3",
+        "Answer": "Risposta 3 fine",
+        "IdQuestionNext": null
+      }
+    ]
+  },
+  {
+    "IdQuestion":5,
+    "Question": "Testo domanda 5?",
+    "Answers": [
+      {
+        "IdAnswer": 1,
+        "Answer": "Risposta 1 fine",
+        "IdQuestionNext": null
+      },
+      {
+        "IdAnswer": 2,
+        "Answer": "Risposta 2 fine",
+        "IdQuestionNext": null
+      },
+      {
+        "IdAnswer": 3,
+        "Answer": "Risposta 3 fine",
+        "IdQuestionNext": null
+      }
+    ]
+  },
+   {
+    "IdQuestion":6,
+    "Question": "Testo domanda 5?",
+    "Answers": [
+      {
+        "IdAnswer": 1,
+        "Answer": "torna alla 5",
+        "IdQuestionNext": 5
+      },
+      {
+        "IdAnswer": 2,
+        "Answer": "Risposta 2 fine",
+        "IdQuestionNext": null
+      },
+      {
+        "IdAnswer": 3,
+        "Answer": "Risposta 3 fine",
         "IdQuestionNext": null
       }
     ]
