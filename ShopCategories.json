@@ -2,51 +2,51 @@
     {
         "id": "1",
         "title": "Clothing and footwear",
-        "Shoptype": "store"
+        "shoptype": "store"
     },
     {
         "id": "2",
         "title": "Home and leisure",
-        "Shoptype": "store"
+        "shoptype": "store"
     },
     {
         "id": "3",
         "title": "Personal care",
-        "Shoptype": "store"
+        "shoptype": "store"
     },
     {
         "id": "4",
         "title": "Hypermarket",
-        "Shoptype": "store"
+        "shoptype": "store"
     },
     {
         "id": "5",
         "title": "For the little one",
-        "Shoptype": "store"
+        "shoptype": "store"
     },
     {
         "id": "6",
         "title": "Precious and gifts",
-        "Shoptype": "store"
+        "shoptype": "store"
     },
     {
         "id": "7",
         "title": "Services",
-        "Shoptype": "store"
+        "shoptype": "store"
     },
     {
         "id": "8",
         "title": "Fast Food",
-        "Shoptype": "foodAndBeverage"
+        "shoptype": "foodAndBeverage"
     },
     {
         "id": "9",
         "title": "Japanese",
-        "Shoptype": "foodAndBeverage"
+        "shoptype": "foodAndBeverage"
     },
     {
         "id": "10",
         "title": "Pizza",
-        "Shoptype": "foodAndBeverage"
+        "shoptype": "foodAndBeverage"
     }
     ]
