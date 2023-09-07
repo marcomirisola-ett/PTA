@@ -178,22 +178,22 @@
 		"Answers": [{
 				"IdAnswer": 26,
 				"Answer": "Storia dell'Arte",
-				"IdQuestionNext": 0
+				"IdQuestionNext": null
 			},
 			{
 				"IdAnswer": 27,
 				"Answer": "Archeologia",
-				"IdQuestionNext": 0
+				"IdQuestionNext": null
 			},
 			{
 				"IdAnswer": 28,
 				"Answer": "Arte Contemporanea",
-				"IdQuestionNext": 0
+				"IdQuestionNext": null
 			},
 			{
 				"IdAnswer": 29,
 				"Answer": "Architettura",
-				"IdQuestionNext": 0
+				"IdQuestionNext": null
 			}
 		]
 	}
