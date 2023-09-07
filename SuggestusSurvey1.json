@@ -1,210 +1,200 @@
-[
-            {
+[{
 		"IdQuestion": 1,
-                "TypeSurvey": "poi",
-                "Question": "Dove andiamo oggi?",
-                "Answers": [
-                    {
-                        "IdAnswer": 1,
-                        "Answer": "A Napoli",
-                        "IdQuestionNext": 2
-                    },
-                    {
-                        "IdAnswer": 2,
-                        "Answer": "A Matera",
-                        "IdQuestionNext": 2
-                    },
-                    {
-                        "IdAnswer": 3,
-                        "Answer": "A Salerno",
-                        "IdQuestionNext": 2
-                    }
-                ]
-            },
-            {
-                "IdQuestion": 2,
-                "TypeSurvey": "user",
-                "Question": "Età",
-                "Answers": [
-                    {
-                        "IdAnswer": 4,
-                        "Answer": "18-24",
-                        "IdQuestionNext": 3
-                    },
-                    {
-                        "IdAnswer": 5,
-                        "Answer": "25-34",
-                        "IdQuestionNext": 3
-                    },
-                    {
-                        "IdAnswer": 6,
-                        "Answer": "35-44",
-                        "IdQuestionNext": 3
-                    },
-                    {
-                        "IdAnswer": 7,
-                        "Answer": "45-59",
-                        "IdQuestionNext": 3
-                    },
-                    {
-                        "IdAnswer": 8,
-                        "Answer": "60-69",
-                        "IdQuestionNext": 3
-                    },
-                    {
-                        "IdAnswer": 9,
-                        "Answer": ">70",
-                        "IdQuestionNext": 3
-                    }
-                ]
-            },
-            {
-                "IdQuestion": 3,
-                "TypeSurvey": "user",
-                "Question": "Per questa visita sei...",
-                "Answers": [
-                    {
-                        "IdAnswer": 10,
-                        "Answer": "Da solo",
-                        "IdQuestionNext": 6
-                    },
-                    {
-                        "IdAnswer": 11,
-                        "Answer": "In famiglia",
-                        "IdQuestionNext": 4
-                    },
-                    {
-                        "IdAnswer": 12,
-                        "Answer": "Con un gruppo di amici/parenti",
-                        "IdQuestionNext": 4
-                    },
-                    {
-                        "IdAnswer": 13,
-                        "Answer": "Con un gruppo organizzato",
-                        "IdQuestionNext": 4
-                    }
-                ]
-            },
-            {
-                "IdQuestion": 4,
-                "TypeSurvey": "user",
-                "Question": "Ci sono bambini/ragazzi con te?",
-                "Answers": [
-                    {
-                        "IdAnswer": 14,
-                        "Answer": "Si",
-                        "IdQuestionNext": 5
-                    },
-                    {
-                        "IdAnswer": 15,
-                        "Answer": "No",
-                        "IdQuestionNext": 6
-                    }
-                ]
-            },
-            {
-                "IdQuestion": 5,
-                "TypeSurvey": "user",
-                "Question": "Quanti anni hanno?",
-                "Answers": [
-                    {
-                        "IdAnswer": 16,
-                        "Answer": "< 10 anni",
-                        "IdQuestionNext": 6
-                    },
-                    {
-                        "IdAnswer": 17,
-                        "Answer": "10-16 anni",
-                        "IdQuestionNext": 6
-                    }
-                ]
-            },
-            {
-                "IdQuestion": 6,
-                "TypeSurvey": "user",
-                "Question": "Hai problemi di mobilità",
-                "Answers": [
-                    {
-                        "IdAnswer": 18,
-                        "Answer": "SI",
-                        "IdQuestionNext": 7
-                    },
-                    {
-                        "IdAnswer": 19,
-                        "Answer": "NO",
-                        "IdQuestionNext": 7
-                    }
-                ]
-            },
-            {
-                "IdQuestion": 7,
-                "TypeSurvey": "user",
-                "Question": "Preferisci ristorarti presso...",
-                "Answers": [
-                    {
-                        "IdAnswer": 20,
-                        "Answer": "Un bar",
-                        "IdQuestionNext": 8
-                    },
-                    {
-                        "IdAnswer": 21,
-                        "Answer": "Un ristorante",
-                        "IdQuestionNext": 8
-                    },
-                    {
-			"IdAnswer": 22
-			"Answer": "Preferisco il cibo di strada"
-			"IdQuestionNext":8
-		    },
-                    {
-                        "IdAnswer": 23,
-                        "Answer": "Nessuna delle precedenti",
-                        "IdQuestionNext": 8
-                    }
-                ]
-            },
-            {
-                "IdQuestion": 8,
-                "TypeSurvey": "user",
-                "Question": "Preferisci una visita indoor o outdoor",
-                "Answers": [
-                    {
-                        "IdAnswer": 24,
-                        "Answer": "indoor",
-                        "IdQuestionNext": 9
-                    },
-                    {
-                        "IdAnswer": 25,
-                        "Answer": "outdoor",
-                        "IdQuestionNext": 9
-                    }
-                ]
-            },
-            {
-                "IdQuestion": 9,
-                "TypeSurvey": "poi",
-                "Question": "Quali di questi temi ti incuriosisce maggiormente?",
-                "Answers": [
-                    {
-                        "IdAnswer": 26,
-                        "Answer": "Storia dell'Arte",
-                        "IdQuestionNext": 0
-                    },
-                    {
-                        "IdAnswer": 27,
-                        "Answer": "Archeologia",
-                        "IdQuestionNext": 0
-                    },
-                    {
-                        "IdAnswer": 28,
-                        "Answer": "Arte Contemporanea",
-                        "IdQuestionNext": 0
-                    },
-                    {
-                        "IdAnswer": 29,
-                        "Answer": "Architettura",
-                        "IdQuestionNext": 0
-                    }
-                ]
-            }
-        ]
+		"TypeSurvey": "poi",
+		"Question": "Dove andiamo oggi?",
+		"Answers": [{
+				"IdAnswer": 1,
+				"Answer": "A Napoli",
+				"IdQuestionNext": 2
+			},
+			{
+				"IdAnswer": 2,
+				"Answer": "A Matera",
+				"IdQuestionNext": 2
+			},
+			{
+				"IdAnswer": 3,
+				"Answer": "A Salerno",
+				"IdQuestionNext": 2
+			}
+		]
+	},
+	{
+		"IdQuestion": 2,
+		"TypeSurvey": "user",
+		"Question": "Età",
+		"Answers": [{
+				"IdAnswer": 4,
+				"Answer": "18-24",
+				"IdQuestionNext": 3
+			},
+			{
+				"IdAnswer": 5,
+				"Answer": "25-34",
+				"IdQuestionNext": 3
+			},
+			{
+				"IdAnswer": 6,
+				"Answer": "35-44",
+				"IdQuestionNext": 3
+			},
+			{
+				"IdAnswer": 7,
+				"Answer": "45-59",
+				"IdQuestionNext": 3
+			},
+			{
+				"IdAnswer": 8,
+				"Answer": "60-69",
+				"IdQuestionNext": 3
+			},
+			{
+				"IdAnswer": 9,
+				"Answer": ">70",
+				"IdQuestionNext": 3
+			}
+		]
+	},
+	{
+		"IdQuestion": 3,
+		"TypeSurvey": "user",
+		"Question": "Per questa visita sei...",
+		"Answers": [{
+				"IdAnswer": 10,
+				"Answer": "Da solo",
+				"IdQuestionNext": 6
+			},
+			{
+				"IdAnswer": 11,
+				"Answer": "In famiglia",
+				"IdQuestionNext": 4
+			},
+			{
+				"IdAnswer": 12,
+				"Answer": "Con un gruppo di amici/parenti",
+				"IdQuestionNext": 4
+			},
+			{
+				"IdAnswer": 13,
+				"Answer": "Con un gruppo organizzato",
+				"IdQuestionNext": 4
+			}
+		]
+	},
+	{
+		"IdQuestion": 4,
+		"TypeSurvey": "user",
+		"Question": "Ci sono bambini/ragazzi con te?",
+		"Answers": [{
+				"IdAnswer": 14,
+				"Answer": "Si",
+				"IdQuestionNext": 5
+			},
+			{
+				"IdAnswer": 15,
+				"Answer": "No",
+				"IdQuestionNext": 6
+			}
+		]
+	},
+	{
+		"IdQuestion": 5,
+		"TypeSurvey": "user",
+		"Question": "Quanti anni hanno?",
+		"Answers": [{
+				"IdAnswer": 16,
+				"Answer": "< 10 anni",
+				"IdQuestionNext": 6
+			},
+			{
+				"IdAnswer": 17,
+				"Answer": "10-16 anni",
+				"IdQuestionNext": 6
+			}
+		]
+	},
+	{
+		"IdQuestion": 6,
+		"TypeSurvey": "user",
+		"Question": "Hai problemi di mobilità",
+		"Answers": [{
+				"IdAnswer": 18,
+				"Answer": "SI",
+				"IdQuestionNext": 7
+			},
+			{
+				"IdAnswer": 19,
+				"Answer": "NO",
+				"IdQuestionNext": 7
+			}
+		]
+	},
+	{
+		"IdQuestion": 7,
+		"TypeSurvey": "user",
+		"Question": "Preferisci ristorarti presso...",
+		"Answers": [{
+				"IdAnswer": 20,
+				"Answer": "Un bar",
+				"IdQuestionNext": 8
+			},
+			{
+				"IdAnswer": 21,
+				"Answer": "Un ristorante",
+				"IdQuestionNext": 8
+			},
+			{
+				"IdAnswer": 22,
+				"Answer": "Preferisco il cibo di strada",
+				"IdQuestionNext": 8
+			},
+			{
+				"IdAnswer": 23,
+				"Answer": "Nessuna delle precedenti",
+				"IdQuestionNext": 8
+			}
+		]
+	},
+	{
+		"IdQuestion": 8,
+		"TypeSurvey": "user",
+		"Question": "Preferisci una visita indoor o outdoor",
+		"Answers": [{
+				"IdAnswer": 24,
+				"Answer": "indoor",
+				"IdQuestionNext": 9
+			},
+			{
+				"IdAnswer": 25,
+				"Answer": "outdoor",
+				"IdQuestionNext": 9
+			}
+		]
+	},
+	{
+		"IdQuestion": 9,
+		"TypeSurvey": "poi",
+		"Question": "Quali di questi temi ti incuriosisce maggiormente?",
+		"Answers": [{
+				"IdAnswer": 26,
+				"Answer": "Storia dell'Arte",
+				"IdQuestionNext": 0
+			},
+			{
+				"IdAnswer": 27,
+				"Answer": "Archeologia",
+				"IdQuestionNext": 0
+			},
+			{
+				"IdAnswer": 28,
+				"Answer": "Arte Contemporanea",
+				"IdQuestionNext": 0
+			},
+			{
+				"IdAnswer": 29,
+				"Answer": "Architettura",
+				"IdQuestionNext": 0
+			}
+		]
+	}
+]
